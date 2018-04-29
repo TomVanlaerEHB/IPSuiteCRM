@@ -1,0 +1,10 @@
+D:\Programming\Intergration Project\temp\Sender\bin\Debug\netcoreapp2.0\Sender.deps.json
+D:\Programming\Intergration Project\temp\Sender\bin\Debug\netcoreapp2.0\Sender.runtimeconfig.json
+D:\Programming\Intergration Project\temp\Sender\bin\Debug\netcoreapp2.0\Sender.runtimeconfig.dev.json
+D:\Programming\Intergration Project\temp\Sender\bin\Debug\netcoreapp2.0\Sender.dll
+D:\Programming\Intergration Project\temp\Sender\bin\Debug\netcoreapp2.0\Sender.pdb
+D:\Programming\Intergration Project\temp\Sender\obj\Debug\netcoreapp2.0\Sender.csproj.CoreCompileInputs.cache
+D:\Programming\Intergration Project\temp\Sender\obj\Debug\netcoreapp2.0\Sender.AssemblyInfoInputs.cache
+D:\Programming\Intergration Project\temp\Sender\obj\Debug\netcoreapp2.0\Sender.AssemblyInfo.cs
+D:\Programming\Intergration Project\temp\Sender\obj\Debug\netcoreapp2.0\Sender.dll
+D:\Programming\Intergration Project\temp\Sender\obj\Debug\netcoreapp2.0\Sender.pdb
